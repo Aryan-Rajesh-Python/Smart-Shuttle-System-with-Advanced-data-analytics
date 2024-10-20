@@ -19,8 +19,9 @@ This project implements an RFID-based payment collection system for student ID c
 - **Web Development**: Designed and developed a responsive website.
 
 ### Installation
+
 1. Clone the repository:
-2. 
+ 
    ```bash
    
    git clone https://github.com/yourusername/rfid-payment-system.git
