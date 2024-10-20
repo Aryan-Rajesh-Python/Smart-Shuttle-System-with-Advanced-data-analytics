@@ -20,7 +20,7 @@ This project implements an RFID-based payment collection system for student ID c
 
 ### Installation
 
-   Clone the repository:
+   Steps to run the application:
  
    ```bash
    
