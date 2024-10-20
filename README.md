@@ -23,4 +23,5 @@ This project implements an RFID-based payment collection system for student ID c
    ```bash
    git clone https://github.com/yourusername/rfid-payment-system.git
    cd rfid-payment-system
+   npm install
    
